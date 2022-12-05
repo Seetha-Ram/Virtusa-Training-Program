@@ -37,3 +37,5 @@ Step 4: Make a component file in the src folder named “Recipe.js”(You can na
 Step 5: Now add styling inside src/App.css.
 
 Step 6: Create a new file called “recipe.module.css” in src folder. This file is for adding style to  src/Recipe.js file.
+
+npm run start Output: You will see the following output on your browser screen.
